@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\79537\Videos\Рабочий стол\Traffic Simulation\src\Car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\79537\Videos\Рабочий стол\Traffic Simulation\src\Simulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\79537\Videos\Рабочий стол\Traffic Simulation\src\TrafficLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\79537\Videos\Рабочий стол\Traffic Simulation\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\79537\Videos\Рабочий стол\Traffic Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A61DC05E-8277-339A-B483-100966867565}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
