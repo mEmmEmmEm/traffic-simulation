@@ -17,18 +17,26 @@ src/ — исходные файлы проекта: Car.cpp/h — класс а
 # Сборка и запуск
 
 Клонируйте репозиторий:  
-`git clone <адрес репозитория>`  
-`cd TrafficSimulator`  
+```bash
+git clone https://github.com/mEmmEmmEm/traffic-simulation  
+cd TrafficSimulator
+```
 
 Создайте и перейдите в директорию сборки:  
-`mkdir build`  
-`cd build`  
+```bash
+mkdir build
+cd build
+```
 
 Запустите CMake для генерации файлов сборки:  
-`cmake ..`  
+```bash
+cmake ..
+```
 
 Соберите проект:  
-`cmake --build .`  
+```bash
+cmake --build .
+```
 
 Запустите программу:  
 `./TrafficSimulator` (Linux/macOS)  
